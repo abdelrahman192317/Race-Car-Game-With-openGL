@@ -39,7 +39,7 @@ Game provides move tha camera with these kyes
 
 ###### this is the start shape before you play
 
-<img src="start.png" width='1000' height='700'>
+<img src="start.png">
 
 ###### you can press enter to start playing
 
@@ -51,4 +51,4 @@ Game provides move tha camera with these kyes
 
 ###### there is a flag that is mean you win this round and you can play again after press enter
 
-<img src="end.png" width='1000' height='700'>
+<img src="end.png">
