@@ -43,11 +43,11 @@ Game provides move tha camera with these kyes
 
 ###### you can press enter to start playing
 
-<img src="play.png" width='1000' height='700'>
+<img src="play.png">
 
 ###### if you crashed that mean game over and you can play again after press enter
 
-<img src="game over.png" width='1000' height='700'>
+<img src="game over.png">
 
 ###### there is a flag that is mean you win this round and you can play again after press enter
 
