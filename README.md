@@ -1,5 +1,5 @@
 # Race Car Game
-## Project: Game by C++ and OpenGl
+## Project: Game by C++ and OpenGL
 
 ### Install
 
@@ -18,21 +18,21 @@ Template code is provided in the `Race Game.sln` notebook file.
 
 ### How to play
 
-Game provides playing with these kyes
+The game provides playing with these keys
 
-- `W` or `w` incres speed and move fast.
-- `S` or `s` decrese speed.
+- `W` or `w` increases speed and moves fast.
+- `S` or `s` decrease speed.
 - `A` or `a` move left.
 - `D` or `d` move right.
 
 ### Camera View
 
-Game provides move tha camera with these kyes
+The game provides move the camera with these kyes
 
-- `↑` move up with camera.
-- `↓` move down with camera.
-- `←` move left with camera.
-- `→` move right with camera.
+- `↑` move up with the camera.
+- `↓` move down with the camera.
+- `←` move left with the camera.
+- `→` move right with the camera.
 - `I` or `i` zoom in.
 - `O` or `o` zoom out.
 - `R` or `r` reset the camera position.
@@ -45,10 +45,10 @@ Game provides move tha camera with these kyes
 
 <img src="play.png">
 
-###### if you crashed that mean game over and you can play again after press enter
+###### if you crashed that means game over and you can play again after pressing enter
 
 <img src="game over.png">
 
-###### there is a flag that is mean you win this round and you can play again after press enter
+###### there is a flag that means you win this round and you can play again after pressing enter
 
 <img src="end.png">
